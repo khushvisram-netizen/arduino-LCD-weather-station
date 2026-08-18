@@ -49,4 +49,3 @@ A beginner-friendly Arduino weather station built using the Elegoo UNO R3 Super 
 ## Required Libraries
 Install via Arduino IDE Library Manager:
 * `DHT sensor library` by Adafruit
-* `LiquidCrystal` (built-in)
