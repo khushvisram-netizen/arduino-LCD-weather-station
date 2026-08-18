@@ -9,6 +9,7 @@ A beginner-friendly Arduino weather station built using the Elegoo UNO R3 Super 
 * DHT11 Temperature & Humidity Sensor
 * Active Buzzer
 * Breadboard and Jumper Wires
+* 5V Power Source
 
 ## Wiring Connections
 
