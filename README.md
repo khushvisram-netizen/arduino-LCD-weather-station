@@ -1,4 +1,4 @@
-# Arduino Digital Weather Station with LCD & Alarm
+# Arduino Digital Weather Station with LCD & Alarm (Indoor and Outdoor Use)
 
 A beginner-friendly Arduino weather station built using the Elegoo UNO R3 Super Starter Kit. It reads ambient temperature and humidity using a DHT11 sensor, displays real-time calibrated measurements on a 1602 LCD, and triggers an active buzzer alarm when a temperature threshold is exceeded.
 
