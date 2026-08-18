@@ -43,7 +43,7 @@ A beginner-friendly Arduino weather station built using the Elegoo UNO R3 Super 
 ## Features & Calibration
 * Converts raw Celsius readings to **Fahrenheit**.
 * Built-in calibration offset variables (`TEMP_OFFSET` and `HUMIDITY_OFFSET`) to correct sensor drift.
-* High-temperature acoustic alert trigger.
+* High-temperature alert buzzer trigger.
 
 ## Required Libraries
 Install via Arduino IDE Library Manager:
